@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá eu me chamo Italo!
 
-<!--
-**DIMAAGR/DIMAAGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, bem vindo ao meu repositorio! tenho 19 anos e amo tecnologia, me apaixonei por programação aos 10 anos e estudo ela desde então!
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho com C# e Flutter
+- 🌱 Estou Estudando Flutter 2.0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/DIMAAGR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DIMAAGR&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DIMAAGR&repo=convoychat" />
+</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIMAAGR)](https://github.com/DIMAAGR)
