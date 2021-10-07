@@ -4,12 +4,16 @@ Olá, bem vindo ao meu repositorio! tenho 19 anos e amo tecnologia, me apaixonei
 
 - 🔭 Atualmente trabalho com C# e Flutter
 - 🌱 Estou Estudando Flutter 2.0
+<html>
+th, td {
+  padding: 15px;
+}
 <div>
 <a href="https://github.com/DIMAAGR">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DIMAAGR&show_icons=true&theme=onedark" />
-{  
-  padding-left: 16px;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMAAGR&&theme=onedark"/>}
+
+
+<th>  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMAAGR&&theme=onedark"/> </th>
 </a>
   </div>
   <div>
@@ -18,3 +22,4 @@ Olá, bem vindo ao meu repositorio! tenho 19 anos e amo tecnologia, me apaixonei
    <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </div>
 
+</html>
