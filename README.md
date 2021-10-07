@@ -7,7 +7,9 @@ Olá, bem vindo ao meu repositorio! tenho 19 anos e amo tecnologia, me apaixonei
 <div>
 <a href="https://github.com/DIMAAGR">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DIMAAGR&show_icons=true&theme=onedark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMAAGR&&theme=onedark"/>
+{  
+  padding-left: 16px;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMAAGR&&theme=onedark"/>}
 </a>
   </div>
   <div>
