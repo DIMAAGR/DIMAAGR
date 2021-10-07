@@ -6,7 +6,7 @@ Olá, bem vindo ao meu repositorio! tenho 19 anos e amo tecnologia, me apaixonei
 - 🌱 Estou Estudando Flutter 2.0
 <div>
 <a href="https://github.com/DIMAAGR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DIMAAGR&show_icons=true&theme=gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DIMAAGR&show_icons=true&theme=Gradient" />
 </a>
   </div>
 
