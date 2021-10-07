@@ -4,10 +4,14 @@ Olá, bem vindo ao meu repositorio! tenho 19 anos e amo tecnologia, me apaixonei
 
 - 🔭 Atualmente trabalho com C# e Flutter
 - 🌱 Estou Estudando Flutter 2.0
-
+<div>
 <a href="https://github.com/DIMAAGR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DIMAAGR&show_icons=true&theme=gradient" />
 </a>
+  </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DIMAAGR&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
