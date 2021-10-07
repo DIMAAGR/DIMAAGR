@@ -8,3 +8,6 @@ Olá, bem vindo ao meu repositorio! tenho 19 anos e amo tecnologia, me apaixonei
 <a href="https://github.com/DIMAAGR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DIMAAGR&show_icons=true&theme=gradient" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DIMAAGR&repo=github-readme-stats" />
+</a>
