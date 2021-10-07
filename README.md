@@ -5,9 +5,11 @@ Olá, bem vindo ao meu repositorio! tenho 19 anos e amo tecnologia, me apaixonei
 - 🔭 Atualmente trabalho com C# e Flutter
 - 🌱 Estou Estudando Flutter 2.0
 <html>
+<style>
 th, td {
-  padding: 15px;
+  padding: 16px;
 }
+</style>
 <div>
 <a href="https://github.com/DIMAAGR">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DIMAAGR&show_icons=true&theme=onedark" />
