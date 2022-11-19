@@ -1,15 +1,17 @@
 ### Olá eu me chamo Italo!
 
-Olá, bem vindo ao meu repositorio! tenho 19 anos e amo tecnologia, me apaixonei por programação aos 10 anos e estudo ela desde então!
+Olá, bem vindo ao meu repositorio! tenho 20 anos e amo tecnologia, me apaixonei por programação aos 10 anos e estudo ela desde então!
 
-- 🔭 Atualmente trabalho com C# e Flutter
-- 🌱 Estou Estudando Flutter 2.0
+- 🔭 Atualmente trabalho com Flutter
+- Desenvolvedor Pleno
+
+
 <html>
-<body>
-<div>
-<a href="https://github.com/DIMAAGR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DIMAAGR&show_icons=true&theme=onedark" />
-</a>
+  <body>
+    <div>
+      <a href="https://github.com/DIMAAGR">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=DIMAAGR&show_icons=true&theme=onedark" />
+    </a>
   </div>
 <h3>
   <div>
@@ -18,5 +20,5 @@ Olá, bem vindo ao meu repositorio! tenho 19 anos e amo tecnologia, me apaixonei
      <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>  
   </div>
 </h3>
-</body>
-</html>
+  </body>
+    </html>
