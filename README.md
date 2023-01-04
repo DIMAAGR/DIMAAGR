@@ -2,6 +2,8 @@
 
 Olá, bem vindo ao meu repositorio! tenho 20 anos e amo tecnologia, me apaixonei por programação aos 10 anos e estudo ela desde então!
 
+Sou programador Flutter Pleno atualmente, trabalho também com C#, JS, e C. estudo engenharia da computação pela estácio de sá.
+
 - 🔭 Atualmente trabalho com Flutter
 - Desenvolvedor Pleno
 
